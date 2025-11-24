@@ -9,3 +9,7 @@
     </td>
   </tr>
 </table>
+
+## What is OpenSteamInjector?
+OpenSteamInjector is a lua and manifest injector for steam:
+this allows you to trick steam into thinking that you bought a game legitimately and so it let's you install it for free
