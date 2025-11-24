@@ -1,12 +1,7 @@
-# OpenSteamInjector
-![Project Logo](assets/logo.png)
-# Install almost any game on steam for free with this tool!
-
-
 <table>
   <tr>
     <td>
-      <img src="assets/logo.png" alt="Logo" width="150"/>
+      <img src="assets/logo.png" alt="Logo" width="320"/>
     </td>
     <td>
       <h1>OpenSteamInjector</h1>
