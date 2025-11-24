@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/logo.png" alt="Logo" width="120"/>
+      <img src="assets/logo.png" alt="Logo" width="150"/>
     </td>
     <td>
       <h1>OpenSteamInjector</h1>
