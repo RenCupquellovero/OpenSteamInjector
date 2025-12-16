@@ -15,18 +15,11 @@ OpenSteamInjector is a lua and manifest injector for steam:
 this allows you to trick steam into thinking that you bought a game legitimately and so it let's you install it for free
 
 ## Depencies
-- os
-- sys
-- platform
-- subprocess
-- shutil
-- webbrowser
-- threading
-- json
-- time
-- re
+- customtkinter
+- tkinter if on unix/linux
 - pystray
-- custom tkinter
-- tkinter
+- pillow
+- PyQt5
+- requests
 
 [Based on the SteamML's lua and manifest injector](https://steamml.vercel.app/ "Based on the SteamML's lua and manifest injector")
