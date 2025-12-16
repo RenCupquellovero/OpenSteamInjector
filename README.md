@@ -25,5 +25,7 @@ this allows you to trick steam into thinking that you bought a game legitimately
 - json
 - time
 - re
-
+- pystray
+- custom tkinter
+- tkinter
 [Based on the SteamML's lua and manifest injector](https://steamml.vercel.app/ "Based on the SteamML's lua and manifest injector")
