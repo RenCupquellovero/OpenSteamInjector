@@ -28,4 +28,5 @@ this allows you to trick steam into thinking that you bought a game legitimately
 - pystray
 - custom tkinter
 - tkinter
+
 [Based on the SteamML's lua and manifest injector](https://steamml.vercel.app/ "Based on the SteamML's lua and manifest injector")
