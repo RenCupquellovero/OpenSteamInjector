@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>OpenSteamInjector</h1>
-      <p>Install almost any game on steam for free with this tool!.</p>
+      <p>The Best Steam lua and manifest injector.</p>
     </td>
   </tr>
 </table>
@@ -14,6 +14,9 @@
 OpenSteamInjector is a lua and manifest injector for steam:
 this allows you to trick steam into thinking that you bought a game legitimately and so it let's you install it for free
 
+## Warning
+This program is only meant to use if you legally own a game, we don't have any responsability
+if you get in legal trouble for something related to this, you can't blame us as we warned you.
 ## Depencies
 - customtkinter
 - tkinter if on unix/linux
