@@ -1,3 +1,9 @@
+## ⚠️ Project Discontinued
+
+This project is no longer maintained.
+
+[**➡️ Why was this project discontinued?**](./discontinued.md)
+
 <table>
   <tr>
     <td>
